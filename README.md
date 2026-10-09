@@ -191,14 +191,11 @@ telecom-data-mining-network-intelligence/
 └── .gitignore
 ```
 
-The file names above describe the proposed structure; include only files that are actually present in the repository.
-
 ## Conclusion
 
 This project demonstrates a practical approach to data mining for telecom network intelligence, combining exploratory analysis, clustering, association rules, sequential and temporal analysis, spatial exploration, anomaly detection, rare-event mining, and pattern validation.
 
 The central objective is to move beyond descriptive reporting toward discovering meaningful patterns, evaluating their reliability, and translating evidence into actionable business intelligence.
 
-**Author:** Marvley Data
-
+**Author:** elton
 **Project type:** Data Mining | Telecom Analytics | Python | Business Intelligence
